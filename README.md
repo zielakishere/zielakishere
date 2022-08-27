@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm zielak
 Im simple guy from Poland who want to learn how to code.
 
-Skills: Angular (JS, SCSS) /  REACT / HTML
+Skills: Angular (JS, SCSS) /  REACT / HTML / Python
 
 - 🔭 I’m currently working on simple REACT page 
 - 🌱 I’m currently learning REACT 
